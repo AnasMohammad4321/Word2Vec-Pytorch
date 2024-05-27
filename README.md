@@ -60,6 +60,3 @@ This project demonstrates the implementation of the Word2Vec algorithm using the
 - NLTK Documentation: [https://www.nltk.org/](https://www.nltk.org/)
 
 Feel free to explore and modify the code according to your needs! If you have any questions or suggestions, please don't hesitate to reach out.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
